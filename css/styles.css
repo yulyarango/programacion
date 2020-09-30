@@ -5,9 +5,13 @@
     text-align: center;
 } 
 
-.mariposa {
+.butterfly {
     width: 60px;
     height: 60px;
+}
+
+.introduction-container {
+    border-bottom: 2px solid pink;
 }
 
 .paragraph {
@@ -19,9 +23,63 @@
 
 .nails {
     float: right;
-    margin-right: 20px;
-    width:80px ;
-    height:80px ;
+    margin-right: 400px;
+    widows: 130px;
+    height: 130px ;
 }
 
-.line
+.table {
+    width: 100%;
+    border-bottom: 2px solid orange;
+    margin-top: 6px;
+    padding-bottom: 10px;
+}
+
+.table-images {
+    width: 110px;
+    height: 110px; 
+}
+
+.row-link {
+    font-size: x-large;
+    color: black;
+}
+
+.link-naturales {
+    color: crimson;
+}
+
+.enlace-acrilicas {
+    text-align: center;
+}
+
+.link-acrilicas {
+    color: darkmagenta;
+}
+
+.enlace-permanentes {
+    text-align: right;
+}
+
+.link-permanentes {
+    color: green;
+}
+
+.subtitle {
+    font-family: cursive;
+    font-size: 30px;
+    color: red;
+    margin-bottom: 15px;
+}
+
+.products {
+    list-style-type: square;
+    font-size: x-large;
+    font-family: inherit;
+}
+
+.information {
+    text-align: center;
+    color: hotpink;
+    font-size: x-large;
+}
