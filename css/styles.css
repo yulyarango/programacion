@@ -68,7 +68,7 @@
 .subtitle {
     font-family: cursive;
     font-size: 30px;
-    color: red;
+    color: purple;
     margin-bottom: 15px;
 }
 
@@ -82,9 +82,8 @@
     text-align: center;
     color: hotpink;
     font-size: x-large;
-    border-bottom: 2px solid gold;
+    border-bottom: 2px solid green;
     padding-bottom: 30px;
-
 }
 
 .social-networks {
