@@ -76,7 +76,7 @@
     list-style-type: square;
     font-size: x-large;
     font-family: inherit;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .img {
@@ -90,13 +90,21 @@
     text-align: center;
 }
 
-.enamels-name {
+.enamels-info {
     text-align: center;
-    width: 150px;
+}
+
+.enamel-name {
+    float: right;
+    margin-right: 200px;
+    font-size: xx-large;
+    font-family: cursive;
+    color: darkblue;
 }
 
 .information {
     text-align: center;
+    margin-top: 150px;
     color: hotpink;
     font-size: x-large;
     border-bottom: 2px solid green;
