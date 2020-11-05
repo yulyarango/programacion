@@ -76,6 +76,23 @@
     list-style-type: square;
     font-size: x-large;
     font-family: inherit;
+    margin-bottom: 50px;
+}
+
+.img {
+    width: 200px;
+    height: 250px;
+    margin-right: 80px;
+    text-align: center;
+}
+
+.enamels-images {
+    text-align: center;
+}
+
+.enamels-name {
+    text-align: center;
+    width: 150px;
 }
 
 .information {
