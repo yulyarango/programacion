@@ -79,11 +79,15 @@
     margin-bottom: 100px;
 }
 
+.container{
+    justify-content: space-around;
+    align-items: center;
+}
+
 .img {
     width: 200px;
     height: 250px;
     margin-right: 80px;
-    text-align: center;
 }
 
 .enamels-images {
